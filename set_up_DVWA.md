@@ -100,8 +100,3 @@ cd /etc/php/$(php -r 'echo PHP_MAJOR_VERSION.".".PHP_MINOR_VERSION;')/apache2
 
 ---
 
-### 💡 Pro-Tip for PortSwigger & Future Labs
-
-When setting up labs, always keep a "Clean Up" script.
-
-**Would you like me to create a quick bash script that automates this entire process so you can deploy a fresh DVWA lab with a single command?**
