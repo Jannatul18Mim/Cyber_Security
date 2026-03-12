@@ -1,13 +1,11 @@
 ---
-# 🛠️ DVWA Deployment Lab
-#!/bin/bash
 
-# =================================================================
 # DVWA Automated Deployment Script
 # Description: Installs and configures DVWA on a local LAMP stack.
 # Usage: sudo chmod +x deploy_dvwa.sh && sudo ./deploy_dvwa.sh
-# =================================================================
 
+# 🛠️ DVWA Deployment Lab
+#!/bin/bash
 
 # 1. Repository Setup
 echo "[+] Cloning DVWA into web root..."
