@@ -4,3 +4,4 @@ Welcome! This repository is my personal lab notebook. I am documenting everythin
 
 Home Lab Setup:
 My first goal was to set up a controlled environment(DVWA) to practice web attacks safely.
+Then set up Burpsuite
