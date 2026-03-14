@@ -7,7 +7,6 @@ Linux File Hierarchy Structure:
   <img src="https://media.geeksforgeeks.org/wp-content/uploads/20260108164511372024/Linux_File_Hierarchy.webp" alt="Linux File Hierarchy">
 </p>
 
-![PortSwigger DOM XSS Lab](https://raw.githubusercontent.com/Jannatul18Mim/Cyber_Security/main/path-to-image/image_158380.png)
 
 ---
 
