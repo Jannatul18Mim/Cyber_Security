@@ -7,6 +7,16 @@ Linux File Hierarchy Structure:
 
 [Click here to view Linux File Hierarchy Structure](https://media.geeksforgeeks.org/wp-content/uploads/20260108164511372024/Linux_File_Hierarchy_Structure.png)
 
+
+https://media.geeksforgeeks.org/wp-content/uploads/20260108164511372024/Linux_File_Hierarchy.webp
+
+
+<p align="center">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20260108164511372024/Linux_File_Hierarchy.webp" alt="Linux File Hierarchy">
+</p>
+
+
+
 ---
 
 🐧 Linux Fundamentals: Console, Terminal, Shell & Kernel
