@@ -4,6 +4,9 @@ Linux File Hierarchy Structure:
 
 ![Linux File Hierarchy Structure](https://media.geeksforgeeks.org/wp-content/uploads/20260108164511372024/Linux_File_Hierarchy_Structure.png)
 
+
+[Click here to view Linux File Hierarchy Structure](https://media.geeksforgeeks.org/wp-content/uploads/20260108164511372024/Linux_File_Hierarchy_Structure.png)
+
 ---
 
 🐧 Linux Fundamentals: Console, Terminal, Shell & Kernel
