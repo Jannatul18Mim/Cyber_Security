@@ -8,3 +8,10 @@ Then set up Burpsuite
 
 Learn about FHS( File Hierarchy Structure) and 
 fundamental components(Console,Terminal,Shell,Kernel)
+
+I start to learn web penetration
+1.path_travarsal
+2.os command injection
+3.cross site scripting
+4.access control vulnerability
+
