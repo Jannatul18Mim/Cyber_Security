@@ -10,8 +10,8 @@ Learn about FHS( File Hierarchy Structure) and
 fundamental components(Console,Terminal,Shell,Kernel)
 
 I start to learn web penetration
-1.path_travarsal
-2.os command injection
-3.cross site scripting
+1.path_travarsal<br>
+2.os command injection<br>
+3.cross site scripting<br>
 4.access control vulnerability
 
