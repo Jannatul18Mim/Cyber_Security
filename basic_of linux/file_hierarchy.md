@@ -1,4 +1,10 @@
+## **Types of Linux File System**
 
+<p align="center"
+ <img src="https://media.geeksforgeeks.org/wp-content/uploads/20260110115203625332/file.webp" alt="Types of linux File System">
+<p>
+
+---  
 
 ## **Linux File Hierarchy Structure:**
 
