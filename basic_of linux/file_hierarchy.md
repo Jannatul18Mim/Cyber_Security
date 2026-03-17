@@ -3,7 +3,7 @@
 <p align="center">
   <img src="
 https://media.geeksforgeeks.org/wp-content/uploads/20260112171619580125/the_architecture_of_a_file_system.webp" alt="Architecture of file system">
-    </P>
+</P>
 
 ---    
 
