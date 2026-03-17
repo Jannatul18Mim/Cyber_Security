@@ -1,8 +1,17 @@
+## **Architecture of File System** 
+
+<p align="center">
+  <img src="
+https://media.geeksforgeeks.org/wp-content/uploads/20260112171619580125/the_architecture_of_a_file_system.webp" alt="Architecture of file system">
+    </P>
+
+---    
+
 ## **Types of Linux File System**
 
 <p align="center">
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20260110115203625332/file.webp" alt="Types of linux File System">
-<p>
+</p>
 
 ---  
 
