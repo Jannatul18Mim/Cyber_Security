@@ -7,7 +7,7 @@ My first goal was to set up a controlled environment(DVWA) to practice web attac
 Then set up Burpsuite
 
 Learn about FHS( File Hierarchy Structure) and 
-fundamental components(Console,Terminal,Shell,Kernel)
+fundamental components (Console,Terminal,Shell,Kernel)
 
 I start to learn web penetration<br>
 1.path_travarsal<br>
@@ -15,3 +15,4 @@ I start to learn web penetration<br>
 3.cross site scripting<br>
 4.access control vulnerability
 
+last few days I was not regular. From tomorrow I will definitely try to learn everyday new things.
