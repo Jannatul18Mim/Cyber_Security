@@ -35,7 +35,10 @@ You can trigger the mode via the terminal or the application menu.
 ### Terminal Commands
 To see the mode list:
 
-``` kali-undercover -h```
+``` 
+kali-undercover -h
+
+```
 
 To enable the mode:
 ```bash
