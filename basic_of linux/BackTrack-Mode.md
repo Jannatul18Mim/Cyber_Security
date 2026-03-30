@@ -21,8 +21,8 @@ BackTrack Mode is an extension of the existing `kali-undercover` tool. While the
 
 > [!NOTE]  
 > If you are on an older version, you can upgrade your system using:
-> ```sudo apt update && sudo apt full-upgrade -y```
-> ```reboot```
+>        ```sudo apt update && sudo apt full-upgrade -y```
+>        ```reboot```
 
 ---
 
