@@ -15,5 +15,3 @@ I start to learn web penetration<br>
 3.cross site scripting<br>
 4.access control vulnerability
 
-last few days I was not regular. From tomorrow I will definitely try to learn everyday new things.
-
