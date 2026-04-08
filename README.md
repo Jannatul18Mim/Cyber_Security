@@ -13,6 +13,7 @@ I start to learn web penetration<br>
 1.path_travarsal<br>
 2.os command injection<br>
 3.cross site scripting<br>
-4.access control vulnerability
+4.access control vulnerabilit
+5. 
 
 
