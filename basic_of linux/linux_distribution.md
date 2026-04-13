@@ -1,4 +1,4 @@
-# 🐧 Linux Distributions: A Comprehensive Guide
+# 🐧 Linux Distributions
 
 > **Last Updated:** 9 Apr, 2026
 
@@ -80,9 +80,3 @@ Streamlines installing, updating, and removing software:
 * **Building a Server?** Use **Debian** or **CentOS**.
 * **A Developer?** **Fedora** or **Arch** will give you the latest tools.
 * **Low Specs?** Try **Lubuntu** or **Xubuntu** to save resources.
-
----
-
-### 🔗 Useful Links
-* [Top 10 Best Linux Distros For Laptops](#)
-* [Linux Kernel Documentation](https://www.kernel.org/doc/html/latest/)
