@@ -1,7 +1,5 @@
 # 🐧 Linux Distributions
 
-> **Last Updated:** 9 Apr, 2026
-
 A **Linux distribution** (or "distro") is an operating system built on the Linux kernel, bundled with essential software, tools, and package managers. These are customized to serve different users, from developers and enterprises to cybersecurity professionals and general users.
 
 ---
