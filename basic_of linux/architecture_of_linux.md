@@ -5,7 +5,9 @@ manage hardware resources, run applications, and provide a stable and secure com
 Linux follows a **layered architecture**, where each layer has a specific role and responsibility.
 
 
-<img align=center width="423" height="400" alt="image" src="https://github.com/user-attachments/assets/e951cd0e-f534-409e-bb1e-787b0984cd11" />
+<div align="center">
+  <img width="423" height="400" alt="image" src="https://github.com/user-attachments/assets/e951cd0e-f534-409e-bb1e-787b0984cd11" />
+</div>
 
 ### Main Components
 * **Application**
