@@ -37,6 +37,8 @@ The **Kernel** is the core component of the Linux operating system that sits bet
 
 ### Main Subsystems of Kernel
 
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/006b6a2e-cc0d-433a-b221-5048da795cb9" />
+
 
 * **Process Scheduler:** Responsible for fairly distributing the processing time among all concurrently running processes.
 * **Memory Management Unit:** This subunit is responsible for proper distribution of memory resources among processes.
@@ -63,6 +65,9 @@ The **Shell** is the interface to the kernel. It takes commands from the user, i
 
 
 ### Different Types of Shell
+
+<img width="432" height="408" alt="image" src="https://github.com/user-attachments/assets/d11a35d0-bde4-4677-b769-686967b69a2f" />
+
 1.  **Bourne Shell (sh):** One of the earliest shells; reliable, lightweight, and used for system scripts.
 2.  **C Shell (csh):** Designed with syntax similar to the C programming language; introduced command history.
 3.  **Korn Shell (ksh):** Combines features of Bourne and C shells; widely used in enterprise environments.
