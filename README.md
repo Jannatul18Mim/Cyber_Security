@@ -14,6 +14,6 @@ I start to learn web penetration<br>
 2.os command injection<br>
 3.cross site scripting<br>
 4.access control vulnerabilit
-5. 
+5.cross_origin resource sharing 
 
 
