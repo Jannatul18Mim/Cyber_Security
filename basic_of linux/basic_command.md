@@ -1,5 +1,5 @@
 
-# 25 Basic Linux Commands
+# Basic Linux Commands
 Linux commands are used to interact with the operating system through the terminal and perform tasks like file management, navigation, and system monitoring. Learning basic Linux commands helps beginners understand how Linux works and use it efficiently for daily tasks.
 
 * Helps beginners understand and use the Linux terminal effectively
@@ -7,6 +7,8 @@ Linux commands are used to interact with the operating system through the termin
 * Useful for students, developers, and system administrators
 * Builds a strong foundation for advanced Linux and server management
 ---
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/1ecb862d-93e5-4e2c-9f9e-8fda3dc05e48" />
 
 ## 25 Basic Linux Commands
 
