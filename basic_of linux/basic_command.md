@@ -1,19 +1,15 @@
 
 Linux commands are used to interact with the operating system through the terminal and perform tasks like file management, navigation, and system monitoring. Learning basic Linux commands helps beginners understand how Linux works and use it efficiently for daily tasks.
 
-Helps beginners understand and use the Linux terminal effectively
+* Helps beginners understand and use the Linux terminal effectively
 
-Covers commonly used commands for files, directories, and system tasks
+* Covers commonly used commands for files, directories, and system tasks
 
-Useful for students, developers, and system administrators
+* Useful for students, developers, and system administrators
 
-Builds a strong foundation for advanced Linux and server management
+* Builds a strong foundation for advanced Linux and server management
 
-25 Basic Linux Commands
-
-If you're looking to set up your own Linux server to practice these commands or host projects, Hostinger can be a great option. Hostinger provides affordable VPS hosting plans with full Linux support, including popular distributions like Ubuntu, Cent-OS, and Debian. Its VPS hosting offers full root access, scalable resources, and high-performance servers, making it an excellent choice for both beginners and experienced developers looking for reliable and cost-effective hosting solutions.
-
-25 essential and commonly used Linux commands to help beginners start working with Linux confidently.
+## 25 Basic Linux Commands
 
 1. ls
 
