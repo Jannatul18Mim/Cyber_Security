@@ -171,5 +171,4 @@ The `df` command in Linux is used to display disk space usage.
 The `wc` command in Linux is used to count words, lines, and characters.
 * **Syntax:** `wc option file_name`
 * **Example:** `wc test.txt`
-25_Basic_Linux_Commands.md
-Displaying 25_Basic_Linux_Commands.md.
+* **Output:** The wc command displays the count of lines, words, and characters in the specified file.
