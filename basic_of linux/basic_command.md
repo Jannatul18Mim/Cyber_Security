@@ -1,12 +1,3 @@
-Gemini
-25 Basic Linux Commands Guide
-EDU
-Conversation with Gemini
-25 Basic Linux Commands
-
-Last Updated : 17 Apr, 2026
-
-
 
 Linux commands are used to interact with the operating system through the terminal and perform tasks like file management, navigation, and system monitoring. Learning basic Linux commands helps beginners understand how Linux works and use it efficiently for daily tasks.
 
